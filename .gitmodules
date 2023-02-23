@@ -1,3 +1,6 @@
 [submodule "Continouous-Control-Using-DDPG"]
 	path = Continouous-Control-Using-DDPG
 	url = https://github.com/ahmedadamji/Continouous-Control-Using-DDPG.git
+[submodule "Navigation-Using-DQN"]
+	path = Navigation-Using-DQN
+	url = https://github.com/ahmedadamji/Navigation-Using-DQN.git
