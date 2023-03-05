@@ -58,29 +58,29 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ## How to pull all the submodules of this repository?
 Clone this repository to your local machine.
 
-'''
+```
 git clone https://github.com/ahmedadamji/DeepReinforcementLearningND.git
-'''
+```
 
 Navigate to the root directory of the cloned repository.
 
-'''
+```
 cd DeepReinforcementLearningND
-'''
+```
 
 Initialize and update all the submodules of the repository using the following command:
 
-'''
+```
 git submodule update --init --recursive
-'''
+```
 
 This will fetch all the submodules and checkout the appropriate commit for each submodule.
 
 To update all the submodules to the latest version, run the following command:
 
-'''
+```
 git submodule update --recursive --remote
-'''
+```
 
 This will update all the submodules to the latest commit on their respective remote branches.
 
