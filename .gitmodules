@@ -4,3 +4,6 @@
 [submodule "Navigation-Using-DQN"]
 	path = Navigation-Using-DQN
 	url = https://github.com/ahmedadamji/Navigation-Using-DQN.git
+[submodule "Multi-Agent-Tennis-Using-MADDPG"]
+	path = Multi-Agent-Tennis-Using-MADDPG
+	url = https://github.com/ahmedadamji/Multi-Agent-Tennis-Using-MADDPG.git
